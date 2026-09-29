@@ -1,17 +1,7 @@
 <!-- YoRHa archive -->
-```
-▸ YoRHa // ARCHIVE — FT_TRANSCENDANCE
-```
+<p align="center"><img src=".github/yorha-header.svg" width="100%" alt="YoRHa // ARCHIVE — ft_transcendance · Type: 42 Lausanne common-core project (final) · team (4) · Stack: Python · Django · Django REST framework · Channels / Daphne · Redis · PostgreSQL · Nginx · vanilla JS (canvas) · Docker Compose · Status: ■ COMPLETE"></p>
 
 A multiplayer Pong web platform with accounts, live chat, tournaments and an AI opponent, split across Django, a Channels/Daphne WebSocket layer and a dedicated Python game server.
-
-![Django](https://img.shields.io/badge/Django-Channels-4e4b42?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-Compose-dad4bb?style=flat-square)
-
-| UNIT DATA | |
-|---|---|
-| Type | 42 Lausanne common-core project (final) · team (4) |
-| Stack | Python · Django · Django REST framework · Channels / Daphne · Redis · PostgreSQL · Nginx · vanilla JS (canvas) · Docker Compose |
-| Status | ■ COMPLETE |
 
 ## ▸ Overview
 ft_transcendence is the last project of the 42 common core: a single-page web app built around real-time Pong.
