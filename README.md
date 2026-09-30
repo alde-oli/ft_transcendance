@@ -60,7 +60,7 @@ docker-compose.yml · Makefile
 ```
 
 ## ▸ Squad
-The team had four members, named in the (now commented-out) CLI splash screen in `cli/main.py`: **Cecile**, **David**, **Alexandre** ([alde-oli](https://github.com/alde-oli)) and **Paul**.
+The team had four members, named in the (now commented-out) CLI splash screen in `cli/main.py`: **Cecile** ([cduffaut](https://github.com/cduffaut)), **David** ([DavePie](https://github.com/DavePie)), **Alexandre** ([alde-oli](https://github.com/alde-oli)) and **Paul** ([Rain36522](https://github.com/Rain36522)).
 This repository was uploaded from the team repo in a single commit, so it doesn't keep a per-person history.
 
 ## ▸ Notes
